@@ -265,8 +265,9 @@ a:focus {
 }
 
 .hero .hero-image img {
-    max-width: 80%;
-    max-height: 80%;
+    max-width: 82%;
+    max-height: 82%;
+    scale: 250%;
 }
 
 .hero .hero-content {
