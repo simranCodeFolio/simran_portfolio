@@ -1312,6 +1312,7 @@ a:focus {
     height: 100vh;
     margin: 45px 0;
     background: #EF233C;
+    background-size: cover;
 }
 
 .contact .container-fluid {
